@@ -1,2 +1,3 @@
 this is new file
 Editing this file to test scheduled deployment of "game of fire"
+Scheduled deployment worked fine
